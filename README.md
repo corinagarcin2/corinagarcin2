@@ -1,43 +1,51 @@
 <div align="center">
 
-<div align="center">
-
 # ✨ Welcome to My Engineering World 🚀
 
-### Hi, I'm Corina! 👋🏽
-
-🌈 **Where creativity meets engineering.**
+### 🌈 Where creativity meets engineering.
 
 </div>
 
----
+<br>
 
-### 👋🏽 A little about me
+## 👋🏽 A Little About Me
 
 I'm **Corina Michelle Garcin** — a Latina in Engineering. 🤎
 
 I'm a senior studying **Systems Engineering**, exploring the world where  
 **hardware + software + programming** come together.
 
-But the thing that drives me most?
+<div align="center">
 
-# 💡 CREATIVITY.
+### 💡 What drives me most?
 
-I believe engineering should be **creative, curious, and FUN.**
+# CREATIVITY.
+
+*I believe engineering should be creative, curious, and fun.*
+
+</div>
+
+<br>
 
 ---
 
-### 🌎 My Engineering Universe
+## 🌎 My Engineering Universe
 
-**Where you'll find me exploring...**
+<div align="center">
 
-🤖 Robotics & Automation  
-⚡ Electrical & Hardware Systems  
-💻 Programming & Software  
-🌙 Autonomous Systems  
-🧠 Machine Learning & AI  
-⚙️ Systems Engineering  
-🎨 Design, Creativity & Innovation
+### Where you'll find me exploring...
+
+| | |
+| :--- | :--- |
+| 🤖 **Robotics & Automation** | ⚡ **Electrical & Hardware** |
+| 💻 **Programming & Software** | 🌙 **Autonomous Systems** |
+| 🧠 **Machine Learning & AI** | ⚙️ **Systems Engineering** |
+| 🎨 **Design & Creativity** | 💡 **Innovation** |
+
+</div>
+
+<br>
+
 ---
 
 <div align="center">
