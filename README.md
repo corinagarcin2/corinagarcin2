@@ -1,57 +1,66 @@
 <div align="center">
 
-# ✨ Welcome to My Engineering World 🚀
+<h1>✨ Welcome to My Engineering World 🚀</h1>
 
-### 🌈 Where creativity meets engineering.
-
-</div>
+<h3>🌈 Where creativity meets engineering.</h3>
 
 <br>
 
-## 👋🏽 A Little About Me
+<h2>👋🏽 A Little About Me</h2>
 
-I'm **Corina Michelle Garcin** — a Latina in Engineering. 🤎
+<p>
+I'm <b>Corina Michelle Garcin</b> — a Latina in Engineering. 🤎
+</p>
 
-I'm a senior studying **Systems Engineering**, exploring the world where  
-**hardware + software + programming** come together.
-
-<div align="center">
-
-### 💡 What drives me most?
-
-# CREATIVITY.
-
-*I believe engineering should be creative, curious, and fun.*
-
-</div>
+<p>
+I'm a senior studying <b>Systems Engineering</b>, exploring the world where<br>
+<b>hardware + software + programming</b> come together.
+</p>
 
 <br>
 
----
+<h3>💡 What drives me most?</h3>
 
-## 🌎 My Engineering Universe
+<h1>CREATIVITY.</h1>
 
-<div align="center">
+<p>
+<b>Creative. Curious. Always building.</b>
+</p>
 
-### Where you'll find me exploring...
-
-| | |
-| :--- | :--- |
-| 🤖 **Robotics & Automation** | ⚡ **Electrical & Hardware** |
-| 💻 **Programming & Software** | 🌙 **Autonomous Systems** |
-| 🧠 **Machine Learning & AI** | ⚙️ **Systems Engineering** |
-| 🎨 **Design & Creativity** | 💡 **Innovation** |
-
-</div>
+<p>
+I believe engineering should be creative, curious, and fun.
+</p>
 
 <br>
 
----
+<hr>
 
-<div align="center">
+<br>
 
-### 🎨 Creating my own path, one idea at a time.
+<h2>🌎 My Engineering Universe</h2>
 
-**The stars are the destination. ✨🚀**
+<p><i>Where you'll find me exploring...</i></p>
+
+<br>
+
+<h3>🤖 Robotics & Automation</h3>
+<h3>⚡ Electrical & Hardware Systems</h3>
+<h3>💻 Programming & Software</h3>
+<h3>🌙 Autonomous Systems</h3>
+<h3>🧠 Machine Learning & AI</h3>
+<h3>⚙️ Systems Engineering</h3>
+<h3>🎨 Design, Creativity & Innovation</h3>
+
+<br>
+
+<hr>
+
+<br>
+
+<h3>🎨 Creating my own path, one idea at a time.</h3>
+
+<h2>The stars are the destination. ✨🚀</h2>
+
+<br>
 
 </div>
